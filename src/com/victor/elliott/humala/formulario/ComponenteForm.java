@@ -7,7 +7,8 @@ import javax.persistence.Id;
 import javax.persistence.Table;
  
 @Entity
-@Table(name="componente")
+@Table(name="COMPONENTE")
+//@Table(name="componente")
 public class ComponenteForm {
   
  @Id
